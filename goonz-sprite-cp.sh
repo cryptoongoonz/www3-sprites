@@ -11,7 +11,7 @@ cp tengu.png goonz/10.png
 cp split.png goonz/11.png
 cp flower.png goonz/12.png
 cp flame.png goonz/13.png
-cp tengu.png goonz/14.png
+cp cool_guy.png goonz/14.png
 cp split.png goonz/15.png
 cp flame.png goonz/16.png
 cp tengu.png goonz/17.png
@@ -49,9 +49,9 @@ cp tengu.png goonz/48.png
 cp split.png goonz/49.png
 cp tengu.png goonz/50.png
 cp split.png goonz/51.png
-cp tengu.png goonz/52.png
+cp cool_guy.png goonz/52.png
 cp split.png goonz/53.png
-cp tengu.png goonz/54.png
+cp cool_guy.png goonz/54.png
 cp split.png goonz/55.png
 cp flower.png goonz/56.png
 cp flame.png goonz/57.png
@@ -92,7 +92,7 @@ cp tengu.png goonz/91.png
 cp split.png goonz/92.png
 cp tengu.png goonz/93.png
 cp wolf_crown.png goonz/94.png
-cp split.png goonz/95.png
+cp cool_guy.png goonz/95.png
 cp tengu.png goonz/96.png
 cp flame.png goonz/97.png
 cp split.png goonz/98.png
@@ -145,14 +145,14 @@ cp tengu.png goonz/144.png
 cp wolf_crown.png goonz/145.png
 cp split.png goonz/146.png
 cp tengu.png goonz/147.png
-cp split.png goonz/148.png
+cp cool_guy.png goonz/148.png
 cp tengu.png goonz/149.png
 cp split.png goonz/150.png
 cp zombie.png goonz/151.png
 cp wolf_crown.png goonz/152.png
 cp beanie.png goonz/153.png
 cp tengu.png goonz/154.png
-cp split.png goonz/155.png
+cp cool_guy.png goonz/155.png
 cp tengu.png goonz/156.png
 cp split.png goonz/157.png
 cp tengu.png goonz/158.png
@@ -181,7 +181,7 @@ cp tengu.png goonz/180.png
 cp split.png goonz/181.png
 cp wolf_crown.png goonz/182.png
 cp tengu.png goonz/183.png
-cp split.png goonz/184.png
+cp cool_guy.png goonz/184.png
 cp tengu.png goonz/185.png
 cp split.png goonz/186.png
 cp sheriff_hat.png goonz/187.png
@@ -277,7 +277,7 @@ cp tengu.png goonz/276.png
 cp split.png goonz/277.png
 cp wolf_crown.png goonz/278.png
 cp flower.png goonz/279.png
-cp tengu.png goonz/280.png
+cp cool_guy.png goonz/280.png
 cp split.png goonz/281.png
 cp tengu.png goonz/282.png
 cp split.png goonz/283.png
@@ -316,7 +316,7 @@ cp split.png goonz/315.png
 cp tengu.png goonz/316.png
 cp goggles.png goonz/317.png
 cp split.png goonz/318.png
-cp tengu.png goonz/319.png
+cp cool_guy.png goonz/319.png
 cp split.png goonz/320.png
 cp flower.png goonz/321.png
 cp tengu.png goonz/322.png
@@ -392,7 +392,7 @@ cp split.png goonz/391.png
 cp tengu.png goonz/392.png
 cp wolf_crown.png goonz/393.png
 cp sheriff_hat.png goonz/394.png
-cp split.png goonz/395.png
+cp cool_guy.png goonz/395.png
 cp tengu.png goonz/396.png
 cp split.png goonz/397.png
 cp tengu.png goonz/398.png
@@ -468,7 +468,7 @@ cp beanie.png goonz/467.png
 cp flaming_marshmellow.png goonz/468.png
 cp goggles.png goonz/469.png
 cp beanie.png goonz/470.png
-cp split.png goonz/471.png
+cp cool_guy.png goonz/471.png
 cp wolf_crown.png goonz/472.png
 cp flame.png goonz/473.png
 cp tengu.png goonz/474.png
@@ -492,7 +492,7 @@ cp split.png goonz/491.png
 cp tengu.png goonz/492.png
 cp split.png goonz/493.png
 cp tengu.png goonz/494.png
-cp split.png goonz/495.png
+cp cool_guy.png goonz/495.png
 cp tengu.png goonz/496.png
 cp split.png goonz/497.png
 cp tengu.png goonz/498.png
@@ -512,7 +512,7 @@ cp tengu.png goonz/511.png
 cp flame.png goonz/512.png
 cp split.png goonz/513.png
 cp tengu.png goonz/514.png
-cp split.png goonz/515.png
+cp cool_guy.png goonz/515.png
 cp tengu.png goonz/516.png
 cp split.png goonz/517.png
 cp tengu.png goonz/518.png
@@ -551,7 +551,7 @@ cp split.png goonz/550.png
 cp wolf_crown.png goonz/551.png
 cp tengu.png goonz/552.png
 cp split.png goonz/553.png
-cp tengu.png goonz/554.png
+cp cool_guy.png goonz/554.png
 cp split.png goonz/555.png
 cp tengu.png goonz/556.png
 cp split.png goonz/557.png
@@ -593,7 +593,7 @@ cp tengu.png goonz/592.png
 cp split.png goonz/593.png
 cp tengu.png goonz/594.png
 cp split.png goonz/595.png
-cp tengu.png goonz/596.png
+cp cool_guy.png goonz/596.png
 cp split.png goonz/597.png
 cp tengu.png goonz/598.png
 cp split.png goonz/599.png
@@ -660,7 +660,7 @@ cp split.png goonz/659.png
 cp tengu.png goonz/660.png
 cp split.png goonz/661.png
 cp tengu.png goonz/662.png
-cp split.png goonz/663.png
+cp cool_guy.png goonz/663.png
 cp tengu.png goonz/664.png
 cp flame.png goonz/665.png
 cp split.png goonz/666.png
@@ -705,7 +705,7 @@ cp split.png goonz/704.png
 cp tengu.png goonz/705.png
 cp split.png goonz/706.png
 cp tengu.png goonz/707.png
-cp split.png goonz/708.png
+cp cool_guy.png goonz/708.png
 cp tengu.png goonz/709.png
 cp split.png goonz/710.png
 cp tengu.png goonz/711.png
@@ -782,8 +782,8 @@ cp goggles.png goonz/781.png
 cp tengu.png goonz/782.png
 cp split.png goonz/783.png
 cp tengu.png goonz/784.png
-cp split.png goonz/785.png
-cp tengu.png goonz/786.png
+cp cool_guy.png goonz/785.png
+cp cool_guy.png goonz/786.png
 cp flame.png goonz/787.png
 cp split.png goonz/788.png
 cp flat_top.png goonz/789.png
@@ -815,7 +815,7 @@ cp split.png goonz/814.png
 cp tengu.png goonz/815.png
 cp split.png goonz/816.png
 cp tengu.png goonz/817.png
-cp split.png goonz/818.png
+cp cool_guy.png goonz/818.png
 cp tengu.png goonz/819.png
 cp split.png goonz/820.png
 cp zombie.png goonz/821.png
@@ -842,7 +842,7 @@ cp tengu.png goonz/841.png
 cp split.png goonz/842.png
 cp tengu.png goonz/843.png
 cp split.png goonz/844.png
-cp tengu.png goonz/845.png
+cp cool_guy.png goonz/845.png
 cp split.png goonz/846.png
 cp tengu.png goonz/847.png
 cp split.png goonz/848.png
@@ -866,13 +866,13 @@ cp split.png goonz/865.png
 cp tengu.png goonz/866.png
 cp wolf_crown.png goonz/867.png
 cp split.png goonz/868.png
-cp tengu.png goonz/869.png
+cp cool_guy.png goonz/869.png
 cp split.png goonz/870.png
 cp tengu.png goonz/871.png
 cp split.png goonz/872.png
 cp tengu.png goonz/873.png
 cp flat_top.png goonz/874.png
-cp split.png goonz/875.png
+cp cool_guy.png goonz/875.png
 cp tengu.png goonz/876.png
 cp split.png goonz/877.png
 cp tengu.png goonz/878.png
@@ -926,7 +926,7 @@ cp tengu.png goonz/925.png
 cp split.png goonz/926.png
 cp tengu.png goonz/927.png
 cp split.png goonz/928.png
-cp tengu.png goonz/929.png
+cp cool_guy.png goonz/929.png
 cp split.png goonz/930.png
 cp tengu.png goonz/931.png
 cp split.png goonz/932.png
@@ -978,7 +978,7 @@ cp tengu.png goonz/977.png
 cp goggles.png goonz/978.png
 cp beanie.png goonz/979.png
 cp split.png goonz/980.png
-cp tengu.png goonz/981.png
+cp cool_guy.png goonz/981.png
 cp split.png goonz/982.png
 cp flat_top.png goonz/983.png
 cp tengu.png goonz/984.png
@@ -1011,7 +1011,7 @@ cp tengu.png goonz/1010.png
 cp split.png goonz/1011.png
 cp tengu.png goonz/1012.png
 cp wolf_crown.png goonz/1013.png
-cp split.png goonz/1014.png
+cp cool_guy.png goonz/1014.png
 cp tengu.png goonz/1015.png
 cp split.png goonz/1016.png
 cp tengu.png goonz/1017.png
@@ -1056,13 +1056,13 @@ cp tengu.png goonz/1055.png
 cp split.png goonz/1056.png
 cp tengu.png goonz/1057.png
 cp split.png goonz/1058.png
-cp tengu.png goonz/1059.png
+cp cool_guy.png goonz/1059.png
 cp split.png goonz/1060.png
 cp flaming_marshmellow.png goonz/1061.png
 cp tengu.png goonz/1062.png
-cp split.png goonz/1063.png
+cp cool_guy.png goonz/1063.png
 cp beanie.png goonz/1064.png
-cp tengu.png goonz/1065.png
+cp cool_guy.png goonz/1065.png
 cp split.png goonz/1066.png
 cp flame.png goonz/1067.png
 cp tengu.png goonz/1068.png
@@ -1199,7 +1199,7 @@ cp tengu.png goonz/1198.png
 cp split.png goonz/1199.png
 cp tengu.png goonz/1200.png
 cp split.png goonz/1201.png
-cp tengu.png goonz/1202.png
+cp cool_guy.png goonz/1202.png
 cp split.png goonz/1203.png
 cp tengu.png goonz/1204.png
 cp split.png goonz/1205.png
@@ -1207,8 +1207,8 @@ cp tengu.png goonz/1206.png
 cp flower.png goonz/1207.png
 cp split.png goonz/1208.png
 cp goggles.png goonz/1209.png
-cp tengu.png goonz/1210.png
-cp split.png goonz/1211.png
+cp cool_guy.png goonz/1210.png
+cp cool_guy.png goonz/1211.png
 cp tengu.png goonz/1212.png
 cp split.png goonz/1213.png
 cp tengu.png goonz/1214.png
@@ -1244,14 +1244,14 @@ cp split.png goonz/1243.png
 cp tengu.png goonz/1244.png
 cp split.png goonz/1245.png
 cp sheriff_hat.png goonz/1246.png
-cp tengu.png goonz/1247.png
+cp cool_guy.png goonz/1247.png
 cp split.png goonz/1248.png
 cp tengu.png goonz/1249.png
 cp split.png goonz/1250.png
 cp tengu.png goonz/1251.png
 cp split.png goonz/1252.png
 cp wolf_crown.png goonz/1253.png
-cp tengu.png goonz/1254.png
+cp cool_guy.png goonz/1254.png
 cp split.png goonz/1255.png
 cp tengu.png goonz/1256.png
 cp split.png goonz/1257.png
@@ -1360,7 +1360,7 @@ cp split.png goonz/1359.png
 cp tengu.png goonz/1360.png
 cp split.png goonz/1361.png
 cp tengu.png goonz/1362.png
-cp split.png goonz/1363.png
+cp cool_guy.png goonz/1363.png
 cp tengu.png goonz/1364.png
 cp split.png goonz/1365.png
 cp tengu.png goonz/1366.png
@@ -1398,7 +1398,7 @@ cp split.png goonz/1397.png
 cp tengu.png goonz/1398.png
 cp split.png goonz/1399.png
 cp tengu.png goonz/1400.png
-cp split.png goonz/1401.png
+cp cool_guy.png goonz/1401.png
 cp tengu.png goonz/1402.png
 cp split.png goonz/1403.png
 cp tengu.png goonz/1404.png
@@ -1409,7 +1409,7 @@ cp tengu.png goonz/1408.png
 cp split.png goonz/1409.png
 cp tengu.png goonz/1410.png
 cp split.png goonz/1411.png
-cp tengu.png goonz/1412.png
+cp cool_guy.png goonz/1412.png
 cp block.png goonz/1413.png
 cp split.png goonz/1414.png
 cp tengu.png goonz/1415.png
@@ -1468,7 +1468,7 @@ cp split.png goonz/1467.png
 cp split.png goonz/1468.png
 cp split.png goonz/1469.png
 cp tengu.png goonz/1470.png
-cp split.png goonz/1471.png
+cp cool_guy.png goonz/1471.png
 cp block.png goonz/1472.png
 cp tengu.png goonz/1473.png
 cp split.png goonz/1474.png
@@ -1583,7 +1583,7 @@ cp tengu.png goonz/1582.png
 cp split.png goonz/1583.png
 cp tengu.png goonz/1584.png
 cp split.png goonz/1585.png
-cp tengu.png goonz/1586.png
+cp cool_guy.png goonz/1586.png
 cp split.png goonz/1587.png
 cp wolf_crown.png goonz/1588.png
 cp tengu.png goonz/1589.png
@@ -1619,7 +1619,7 @@ cp tengu.png goonz/1618.png
 cp split.png goonz/1619.png
 cp goggles.png goonz/1620.png
 cp tengu.png goonz/1621.png
-cp split.png goonz/1622.png
+cp cool_guy.png goonz/1622.png
 cp wolf_crown.png goonz/1623.png
 cp tengu.png goonz/1624.png
 cp goggles.png goonz/1625.png
@@ -1656,10 +1656,10 @@ cp flaming_marshmellow.png goonz/1655.png
 cp split.png goonz/1656.png
 cp tengu.png goonz/1657.png
 cp split.png goonz/1658.png
-cp tengu.png goonz/1659.png
+cp cool_guy.png goonz/1659.png
 cp split.png goonz/1660.png
 cp flower.png goonz/1661.png
-cp tengu.png goonz/1662.png
+cp cool_guy.png goonz/1662.png
 cp split.png goonz/1663.png
 cp beanie.png goonz/1664.png
 cp sheriff_hat.png goonz/1665.png
@@ -1706,7 +1706,7 @@ cp tengu.png goonz/1705.png
 cp split.png goonz/1706.png
 cp tengu.png goonz/1707.png
 cp wolf_crown.png goonz/1708.png
-cp split.png goonz/1709.png
+cp cool_guy.png goonz/1709.png
 cp tengu.png goonz/1710.png
 cp zombie.png goonz/1711.png
 cp split.png goonz/1712.png
@@ -1830,7 +1830,7 @@ cp tengu.png goonz/1829.png
 cp split.png goonz/1830.png
 cp tengu.png goonz/1831.png
 cp split.png goonz/1832.png
-cp tengu.png goonz/1833.png
+cp cool_guy.png goonz/1833.png
 cp split.png goonz/1834.png
 cp tengu.png goonz/1835.png
 cp split.png goonz/1836.png
@@ -1913,7 +1913,7 @@ cp tengu.png goonz/1912.png
 cp split.png goonz/1913.png
 cp sheriff_hat.png goonz/1914.png
 cp tengu.png goonz/1915.png
-cp split.png goonz/1916.png
+cp cool_guy.png goonz/1916.png
 cp tengu.png goonz/1917.png
 cp split.png goonz/1918.png
 cp tengu.png goonz/1919.png
@@ -1939,7 +1939,7 @@ cp sheriff_hat.png goonz/1938.png
 cp split.png goonz/1939.png
 cp tengu.png goonz/1940.png
 cp split.png goonz/1941.png
-cp tengu.png goonz/1942.png
+cp cool_guy.png goonz/1942.png
 cp split.png goonz/1943.png
 cp zombie.png goonz/1944.png
 cp tengu.png goonz/1945.png
@@ -2008,7 +2008,7 @@ cp tengu.png goonz/2007.png
 cp split.png goonz/2008.png
 cp tengu.png goonz/2009.png
 cp split.png goonz/2010.png
-cp tengu.png goonz/2011.png
+cp cool_guy.png goonz/2011.png
 cp split.png goonz/2012.png
 cp flat_top.png goonz/2013.png
 cp tengu.png goonz/2014.png
@@ -2061,7 +2061,7 @@ cp tengu.png goonz/2060.png
 cp goggles.png goonz/2061.png
 cp split.png goonz/2062.png
 cp tengu.png goonz/2063.png
-cp split.png goonz/2064.png
+cp cool_guy.png goonz/2064.png
 cp tengu.png goonz/2065.png
 cp split.png goonz/2066.png
 cp beanie.png goonz/2067.png
@@ -2096,7 +2096,7 @@ cp tengu.png goonz/2095.png
 cp split.png goonz/2096.png
 cp flower.png goonz/2097.png
 cp tengu.png goonz/2098.png
-cp split.png goonz/2099.png
+cp cool_guy.png goonz/2099.png
 cp goggles.png goonz/2100.png
 cp tengu.png goonz/2101.png
 cp split.png goonz/2102.png
@@ -2130,7 +2130,7 @@ cp tengu.png goonz/2129.png
 cp split.png goonz/2130.png
 cp tengu.png goonz/2131.png
 cp wolf_crown.png goonz/2132.png
-cp split.png goonz/2133.png
+cp cool_guy.png goonz/2133.png
 cp beanie.png goonz/2134.png
 cp tengu.png goonz/2135.png
 cp flat_top.png goonz/2136.png
@@ -2144,8 +2144,8 @@ cp tengu.png goonz/2143.png
 cp split.png goonz/2144.png
 cp tengu.png goonz/2145.png
 cp split.png goonz/2146.png
-cp tengu.png goonz/2147.png
-cp split.png goonz/2148.png
+cp cool_guy.png goonz/2147.png
+cp cool_guy.png goonz/2148.png
 cp flaming_marshmellow.png goonz/2149.png
 cp tengu.png goonz/2150.png
 cp split.png goonz/2151.png
@@ -2215,7 +2215,7 @@ cp split.png goonz/2214.png
 cp tengu.png goonz/2215.png
 cp split.png goonz/2216.png
 cp tengu.png goonz/2217.png
-cp split.png goonz/2218.png
+cp cool_guy.png goonz/2218.png
 cp tengu.png goonz/2219.png
 cp flat_top.png goonz/2220.png
 cp split.png goonz/2221.png
@@ -2323,7 +2323,7 @@ cp tengu.png goonz/2322.png
 cp split.png goonz/2323.png
 cp tengu.png goonz/2324.png
 cp split.png goonz/2325.png
-cp tengu.png goonz/2326.png
+cp cool_guy.png goonz/2326.png
 cp split.png goonz/2327.png
 cp tengu.png goonz/2328.png
 cp split.png goonz/2329.png
@@ -2377,7 +2377,7 @@ cp split.png goonz/2376.png
 cp tengu.png goonz/2377.png
 cp split.png goonz/2378.png
 cp tengu.png goonz/2379.png
-cp split.png goonz/2380.png
+cp cool_guy.png goonz/2380.png
 cp tengu.png goonz/2381.png
 cp split.png goonz/2382.png
 cp tengu.png goonz/2383.png
@@ -2402,14 +2402,14 @@ cp split.png goonz/2401.png
 cp tengu.png goonz/2402.png
 cp split.png goonz/2403.png
 cp block.png goonz/2404.png
-cp tengu.png goonz/2405.png
+cp cool_guy.png goonz/2405.png
 cp split.png goonz/2406.png
 cp tengu.png goonz/2407.png
 cp split.png goonz/2408.png
 cp zombie.png goonz/2409.png
 cp tengu.png goonz/2410.png
 cp split.png goonz/2411.png
-cp tengu.png goonz/2412.png
+cp cool_guy.png goonz/2412.png
 cp split.png goonz/2413.png
 cp tengu.png goonz/2414.png
 cp block.png goonz/2415.png
@@ -2469,7 +2469,7 @@ cp split.png goonz/2468.png
 cp tengu.png goonz/2469.png
 cp split.png goonz/2470.png
 cp tengu.png goonz/2471.png
-cp split.png goonz/2472.png
+cp cool_guy.png goonz/2472.png
 cp tengu.png goonz/2473.png
 cp split.png goonz/2474.png
 cp goggles.png goonz/2475.png
@@ -2569,7 +2569,7 @@ cp split.png goonz/2568.png
 cp tengu.png goonz/2569.png
 cp split.png goonz/2570.png
 cp tengu.png goonz/2571.png
-cp split.png goonz/2572.png
+cp cool_guy.png goonz/2572.png
 cp tengu.png goonz/2573.png
 cp split.png goonz/2574.png
 cp tengu.png goonz/2575.png
@@ -2607,15 +2607,15 @@ cp beanie.png goonz/2606.png
 cp split.png goonz/2607.png
 cp tengu.png goonz/2608.png
 cp split.png goonz/2609.png
-cp tengu.png goonz/2610.png
+cp cool_guy.png goonz/2610.png
 cp split.png goonz/2611.png
-cp tengu.png goonz/2612.png
+cp cool_guy.png goonz/2612.png
 cp flaming_marshmellow.png goonz/2613.png
 cp goggles.png goonz/2614.png
 cp split.png goonz/2615.png
 cp goggles.png goonz/2616.png
 cp flat_top.png goonz/2617.png
-cp tengu.png goonz/2618.png
+cp cool_guy.png goonz/2618.png
 cp beanie.png goonz/2619.png
 cp split.png goonz/2620.png
 cp tengu.png goonz/2621.png
@@ -2782,7 +2782,7 @@ cp split.png goonz/2781.png
 cp split.png goonz/2782.png
 cp tengu.png goonz/2783.png
 cp sheriff_hat.png goonz/2784.png
-cp split.png goonz/2785.png
+cp cool_guy.png goonz/2785.png
 cp tengu.png goonz/2786.png
 cp split.png goonz/2787.png
 cp tengu.png goonz/2788.png
@@ -2877,7 +2877,7 @@ cp tengu.png goonz/2876.png
 cp split.png goonz/2877.png
 cp block.png goonz/2878.png
 cp tengu.png goonz/2879.png
-cp split.png goonz/2880.png
+cp cool_guy.png goonz/2880.png
 cp tengu.png goonz/2881.png
 cp split.png goonz/2882.png
 cp tengu.png goonz/2883.png
@@ -2983,7 +2983,7 @@ cp split.png goonz/2982.png
 cp beanie.png goonz/2983.png
 cp tengu.png goonz/2984.png
 cp split.png goonz/2985.png
-cp tengu.png goonz/2986.png
+cp cool_guy.png goonz/2986.png
 cp split.png goonz/2987.png
 cp tengu.png goonz/2988.png
 cp split.png goonz/2989.png
@@ -3036,7 +3036,7 @@ cp tengu.png goonz/3035.png
 cp split.png goonz/3036.png
 cp tengu.png goonz/3037.png
 cp split.png goonz/3038.png
-cp tengu.png goonz/3039.png
+cp cool_guy.png goonz/3039.png
 cp flat_top.png goonz/3040.png
 cp split.png goonz/3041.png
 cp tengu.png goonz/3042.png
@@ -3076,7 +3076,7 @@ cp tengu.png goonz/3075.png
 cp split.png goonz/3076.png
 cp goggles.png goonz/3077.png
 cp tengu.png goonz/3078.png
-cp split.png goonz/3079.png
+cp cool_guy.png goonz/3079.png
 cp tengu.png goonz/3080.png
 cp split.png goonz/3081.png
 cp tengu.png goonz/3082.png
@@ -3114,7 +3114,7 @@ cp split.png goonz/3113.png
 cp goggles.png goonz/3114.png
 cp tengu.png goonz/3115.png
 cp flat_top.png goonz/3116.png
-cp split.png goonz/3117.png
+cp cool_guy.png goonz/3117.png
 cp tengu.png goonz/3118.png
 cp split.png goonz/3119.png
 cp tengu.png goonz/3120.png
@@ -3174,7 +3174,7 @@ cp split.png goonz/3173.png
 cp tengu.png goonz/3174.png
 cp split.png goonz/3175.png
 cp tengu.png goonz/3176.png
-cp split.png goonz/3177.png
+cp cool_guy.png goonz/3177.png
 cp tengu.png goonz/3178.png
 cp split.png goonz/3179.png
 cp tengu.png goonz/3180.png
@@ -3214,7 +3214,7 @@ cp tengu.png goonz/3213.png
 cp split.png goonz/3214.png
 cp tengu.png goonz/3215.png
 cp split.png goonz/3216.png
-cp tengu.png goonz/3217.png
+cp cool_guy.png goonz/3217.png
 cp split.png goonz/3218.png
 cp tengu.png goonz/3219.png
 cp split.png goonz/3220.png
@@ -3241,7 +3241,7 @@ cp tengu.png goonz/3240.png
 cp split.png goonz/3241.png
 cp tengu.png goonz/3242.png
 cp split.png goonz/3243.png
-cp tengu.png goonz/3244.png
+cp cool_guy.png goonz/3244.png
 cp split.png goonz/3245.png
 cp tengu.png goonz/3246.png
 cp split.png goonz/3247.png
@@ -3259,7 +3259,7 @@ cp split.png goonz/3258.png
 cp tengu.png goonz/3259.png
 cp split.png goonz/3260.png
 cp wolf_crown.png goonz/3261.png
-cp tengu.png goonz/3262.png
+cp cool_guy.png goonz/3262.png
 cp split.png goonz/3263.png
 cp tengu.png goonz/3264.png
 cp split.png goonz/3265.png
@@ -3271,7 +3271,7 @@ cp beanie.png goonz/3270.png
 cp tengu.png goonz/3271.png
 cp split.png goonz/3272.png
 cp tengu.png goonz/3273.png
-cp split.png goonz/3274.png
+cp cool_guy.png goonz/3274.png
 cp tengu.png goonz/3275.png
 cp split.png goonz/3276.png
 cp tengu.png goonz/3277.png
@@ -3293,7 +3293,7 @@ cp tengu.png goonz/3292.png
 cp split.png goonz/3293.png
 cp tengu.png goonz/3294.png
 cp split.png goonz/3295.png
-cp tengu.png goonz/3296.png
+cp cool_guy.png goonz/3296.png
 cp split.png goonz/3297.png
 cp tengu.png goonz/3298.png
 cp split.png goonz/3299.png
@@ -3331,7 +3331,7 @@ cp tengu.png goonz/3330.png
 cp split.png goonz/3331.png
 cp tengu.png goonz/3332.png
 cp split.png goonz/3333.png
-cp tengu.png goonz/3334.png
+cp cool_guy.png goonz/3334.png
 cp split.png goonz/3335.png
 cp tengu.png goonz/3336.png
 cp split.png goonz/3337.png
@@ -3382,7 +3382,7 @@ cp split.png goonz/3381.png
 cp tengu.png goonz/3382.png
 cp split.png goonz/3383.png
 cp goggles.png goonz/3384.png
-cp tengu.png goonz/3385.png
+cp cool_guy.png goonz/3385.png
 cp split.png goonz/3386.png
 cp tengu.png goonz/3387.png
 cp goggles.png goonz/3388.png
@@ -3449,7 +3449,7 @@ cp tengu.png goonz/3448.png
 cp split.png goonz/3449.png
 cp tengu.png goonz/3450.png
 cp split.png goonz/3451.png
-cp tengu.png goonz/3452.png
+cp cool_guy.png goonz/3452.png
 cp split.png goonz/3453.png
 cp zombie.png goonz/3454.png
 cp zombie.png goonz/3455.png
@@ -3475,7 +3475,7 @@ cp beanie.png goonz/3474.png
 cp flaming_marshmellow.png goonz/3475.png
 cp split.png goonz/3476.png
 cp tengu.png goonz/3477.png
-cp split.png goonz/3478.png
+cp cool_guy.png goonz/3478.png
 cp flat_top.png goonz/3479.png
 cp tengu.png goonz/3480.png
 cp split.png goonz/3481.png
@@ -3548,7 +3548,7 @@ cp split.png goonz/3547.png
 cp tengu.png goonz/3548.png
 cp split.png goonz/3549.png
 cp tengu.png goonz/3550.png
-cp split.png goonz/3551.png
+cp cool_guy.png goonz/3551.png
 cp tengu.png goonz/3552.png
 cp split.png goonz/3553.png
 cp tengu.png goonz/3554.png
@@ -3564,7 +3564,7 @@ cp tengu.png goonz/3563.png
 cp split.png goonz/3564.png
 cp tengu.png goonz/3565.png
 cp flaming_marshmellow.png goonz/3566.png
-cp split.png goonz/3567.png
+cp cool_guy.png goonz/3567.png
 cp tengu.png goonz/3568.png
 cp split.png goonz/3569.png
 cp tengu.png goonz/3570.png
@@ -3598,8 +3598,8 @@ cp split.png goonz/3597.png
 cp tengu.png goonz/3598.png
 cp flower.png goonz/3599.png
 cp split.png goonz/3600.png
-cp tengu.png goonz/3601.png
-cp split.png goonz/3602.png
+cp cool_guy.png goonz/3601.png
+cp cool_guy.png goonz/3602.png
 cp tengu.png goonz/3603.png
 cp split.png goonz/3604.png
 cp tengu.png goonz/3605.png
@@ -3610,7 +3610,7 @@ cp tengu.png goonz/3609.png
 cp split.png goonz/3610.png
 cp tengu.png goonz/3611.png
 cp goggles.png goonz/3612.png
-cp split.png goonz/3613.png
+cp cool_guy.png goonz/3613.png
 cp tengu.png goonz/3614.png
 cp split.png goonz/3615.png
 cp tengu.png goonz/3616.png
@@ -3711,7 +3711,7 @@ cp tengu.png goonz/3710.png
 cp split.png goonz/3711.png
 cp tengu.png goonz/3712.png
 cp block.png goonz/3713.png
-cp split.png goonz/3714.png
+cp cool_guy.png goonz/3714.png
 cp tengu.png goonz/3715.png
 cp split.png goonz/3716.png
 cp tengu.png goonz/3717.png
@@ -3747,7 +3747,7 @@ cp tengu.png goonz/3746.png
 cp split.png goonz/3747.png
 cp zombie.png goonz/3748.png
 cp tengu.png goonz/3749.png
-cp split.png goonz/3750.png
+cp cool_guy.png goonz/3750.png
 cp tengu.png goonz/3751.png
 cp split.png goonz/3752.png
 cp flat_top.png goonz/3753.png
@@ -3802,7 +3802,7 @@ cp tengu.png goonz/3801.png
 cp flaming_marshmellow.png goonz/3802.png
 cp split.png goonz/3803.png
 cp tengu.png goonz/3804.png
-cp split.png goonz/3805.png
+cp cool_guy.png goonz/3805.png
 cp tengu.png goonz/3806.png
 cp split.png goonz/3807.png
 cp tengu.png goonz/3808.png
@@ -3825,7 +3825,7 @@ cp tengu.png goonz/3824.png
 cp split.png goonz/3825.png
 cp tengu.png goonz/3826.png
 cp split.png goonz/3827.png
-cp tengu.png goonz/3828.png
+cp cool_guy.png goonz/3828.png
 cp split.png goonz/3829.png
 cp tengu.png goonz/3830.png
 cp split.png goonz/3831.png
@@ -3866,7 +3866,7 @@ cp split.png goonz/3865.png
 cp tengu.png goonz/3866.png
 cp split.png goonz/3867.png
 cp tengu.png goonz/3868.png
-cp split.png goonz/3869.png
+cp cool_guy.png goonz/3869.png
 cp beanie.png goonz/3870.png
 cp tengu.png goonz/3871.png
 cp split.png goonz/3872.png
@@ -4019,7 +4019,7 @@ cp sheriff_hat.png goonz/4018.png
 cp tengu.png goonz/4019.png
 cp split.png goonz/4020.png
 cp tengu.png goonz/4021.png
-cp split.png goonz/4022.png
+cp cool_guy.png goonz/4022.png
 cp tengu.png goonz/4023.png
 cp split.png goonz/4024.png
 cp tengu.png goonz/4025.png
@@ -4030,7 +4030,7 @@ cp tengu.png goonz/4029.png
 cp goggles.png goonz/4030.png
 cp split.png goonz/4031.png
 cp tengu.png goonz/4032.png
-cp split.png goonz/4033.png
+cp cool_guy.png goonz/4033.png
 cp tengu.png goonz/4034.png
 cp split.png goonz/4035.png
 cp tengu.png goonz/4036.png
@@ -4126,7 +4126,7 @@ cp tengu.png goonz/4125.png
 cp zombie.png goonz/4126.png
 cp split.png goonz/4127.png
 cp tengu.png goonz/4128.png
-cp split.png goonz/4129.png
+cp cool_guy.png goonz/4129.png
 cp tengu.png goonz/4130.png
 cp split.png goonz/4131.png
 cp tengu.png goonz/4132.png
@@ -4144,7 +4144,7 @@ cp split.png goonz/4143.png
 cp tengu.png goonz/4144.png
 cp split.png goonz/4145.png
 cp beanie.png goonz/4146.png
-cp tengu.png goonz/4147.png
+cp cool_guy.png goonz/4147.png
 cp split.png goonz/4148.png
 cp ape.png goonz/4149.png
 cp tengu.png goonz/4150.png
@@ -4238,7 +4238,7 @@ cp split.png goonz/4237.png
 cp tengu.png goonz/4238.png
 cp split.png goonz/4239.png
 cp tengu.png goonz/4240.png
-cp split.png goonz/4241.png
+cp cool_guy.png goonz/4241.png
 cp tengu.png goonz/4242.png
 cp split.png goonz/4243.png
 cp tengu.png goonz/4244.png
@@ -4255,7 +4255,7 @@ cp split.png goonz/4254.png
 cp tengu.png goonz/4255.png
 cp split.png goonz/4256.png
 cp tengu.png goonz/4257.png
-cp split.png goonz/4258.png
+cp cool_guy.png goonz/4258.png
 cp tengu.png goonz/4259.png
 cp flat_top.png goonz/4260.png
 cp split.png goonz/4261.png
@@ -4309,7 +4309,7 @@ cp split.png goonz/4308.png
 cp tengu.png goonz/4309.png
 cp split.png goonz/4310.png
 cp tengu.png goonz/4311.png
-cp split.png goonz/4312.png
+cp cool_guy.png goonz/4312.png
 cp goggles.png goonz/4313.png
 cp tengu.png goonz/4314.png
 cp wolf_crown.png goonz/4315.png
@@ -4356,7 +4356,7 @@ cp tengu.png goonz/4355.png
 cp split.png goonz/4356.png
 cp tengu.png goonz/4357.png
 cp split.png goonz/4358.png
-cp tengu.png goonz/4359.png
+cp cool_guy.png goonz/4359.png
 cp flaming_marshmellow.png goonz/4360.png
 cp split.png goonz/4361.png
 cp tengu.png goonz/4362.png
@@ -4406,7 +4406,7 @@ cp split.png goonz/4405.png
 cp tengu.png goonz/4406.png
 cp split.png goonz/4407.png
 cp goggles.png goonz/4408.png
-cp tengu.png goonz/4409.png
+cp cool_guy.png goonz/4409.png
 cp flaming_marshmellow.png goonz/4410.png
 cp split.png goonz/4411.png
 cp tengu.png goonz/4412.png
@@ -4472,7 +4472,7 @@ cp tengu.png goonz/4471.png
 cp split.png goonz/4472.png
 cp tengu.png goonz/4473.png
 cp split.png goonz/4474.png
-cp tengu.png goonz/4475.png
+cp cool_guy.png goonz/4475.png
 cp split.png goonz/4476.png
 cp tengu.png goonz/4477.png
 cp split.png goonz/4478.png
@@ -4650,7 +4650,7 @@ cp tengu.png goonz/4649.png
 cp split.png goonz/4650.png
 cp tengu.png goonz/4651.png
 cp split.png goonz/4652.png
-cp tengu.png goonz/4653.png
+cp cool_guy.png goonz/4653.png
 cp split.png goonz/4654.png
 cp tengu.png goonz/4655.png
 cp split.png goonz/4656.png
@@ -4683,7 +4683,7 @@ cp flaming_marshmellow.png goonz/4682.png
 cp split.png goonz/4683.png
 cp tengu.png goonz/4684.png
 cp goggles.png goonz/4685.png
-cp split.png goonz/4686.png
+cp cool_guy.png goonz/4686.png
 cp tengu.png goonz/4687.png
 cp split.png goonz/4688.png
 cp tengu.png goonz/4689.png
@@ -4734,7 +4734,7 @@ cp split.png goonz/4733.png
 cp tengu.png goonz/4734.png
 cp split.png goonz/4735.png
 cp tengu.png goonz/4736.png
-cp split.png goonz/4737.png
+cp cool_guy.png goonz/4737.png
 cp tengu.png goonz/4738.png
 cp split.png goonz/4739.png
 cp tengu.png goonz/4740.png
@@ -4742,7 +4742,7 @@ cp split.png goonz/4741.png
 cp flat_top.png goonz/4742.png
 cp tengu.png goonz/4743.png
 cp flower.png goonz/4744.png
-cp split.png goonz/4745.png
+cp cool_guy.png goonz/4745.png
 cp tengu.png goonz/4746.png
 cp split.png goonz/4747.png
 cp tengu.png goonz/4748.png
@@ -4759,7 +4759,7 @@ cp beanie.png goonz/4758.png
 cp tengu.png goonz/4759.png
 cp split.png goonz/4760.png
 cp tengu.png goonz/4761.png
-cp split.png goonz/4762.png
+cp cool_guy.png goonz/4762.png
 cp tengu.png goonz/4763.png
 cp split.png goonz/4764.png
 cp tengu.png goonz/4765.png
@@ -4817,7 +4817,7 @@ cp split.png goonz/4816.png
 cp tengu.png goonz/4817.png
 cp split.png goonz/4818.png
 cp block.png goonz/4819.png
-cp tengu.png goonz/4820.png
+cp cool_guy.png goonz/4820.png
 cp split.png goonz/4821.png
 cp tengu.png goonz/4822.png
 cp split.png goonz/4823.png
@@ -4888,7 +4888,7 @@ cp tengu.png goonz/4887.png
 cp split.png goonz/4888.png
 cp tengu.png goonz/4889.png
 cp split.png goonz/4890.png
-cp tengu.png goonz/4891.png
+cp cool_guy.png goonz/4891.png
 cp split.png goonz/4892.png
 cp sheriff_hat.png goonz/4893.png
 cp tengu.png goonz/4894.png
@@ -4918,7 +4918,7 @@ cp block.png goonz/4917.png
 cp tengu.png goonz/4918.png
 cp split.png goonz/4919.png
 cp tengu.png goonz/4920.png
-cp split.png goonz/4921.png
+cp cool_guy.png goonz/4921.png
 cp tengu.png goonz/4922.png
 cp split.png goonz/4923.png
 cp tengu.png goonz/4924.png
@@ -4930,7 +4930,7 @@ cp split.png goonz/4929.png
 cp tengu.png goonz/4930.png
 cp split.png goonz/4931.png
 cp tengu.png goonz/4932.png
-cp split.png goonz/4933.png
+cp cool_guy.png goonz/4933.png
 cp flower.png goonz/4934.png
 cp tengu.png goonz/4935.png
 cp split.png goonz/4936.png
@@ -4954,7 +4954,7 @@ cp split.png goonz/4953.png
 cp tengu.png goonz/4954.png
 cp split.png goonz/4955.png
 cp tengu.png goonz/4956.png
-cp split.png goonz/4957.png
+cp cool_guy.png goonz/4957.png
 cp tengu.png goonz/4958.png
 cp flaming_marshmellow.png goonz/4959.png
 cp split.png goonz/4960.png
@@ -4985,7 +4985,7 @@ cp tengu.png goonz/4984.png
 cp flower.png goonz/4985.png
 cp split.png goonz/4986.png
 cp tengu.png goonz/4987.png
-cp split.png goonz/4988.png
+cp cool_guy.png goonz/4988.png
 cp tengu.png goonz/4989.png
 cp split.png goonz/4990.png
 cp tengu.png goonz/4991.png
@@ -4996,10 +4996,10 @@ cp ape.png goonz/4995.png
 cp split.png goonz/4996.png
 cp tengu.png goonz/4997.png
 cp split.png goonz/4998.png
-cp tengu.png goonz/4999.png
+cp cool_guy.png goonz/4999.png
 cp split.png goonz/5000.png
 cp tengu.png goonz/5001.png
-cp split.png goonz/5002.png
+cp cool_guy.png goonz/5002.png
 cp goggles.png goonz/5003.png
 cp tengu.png goonz/5004.png
 cp flat_top.png goonz/5005.png
@@ -5029,9 +5029,9 @@ cp split.png goonz/5028.png
 cp tengu.png goonz/5029.png
 cp split.png goonz/5030.png
 cp tengu.png goonz/5031.png
-cp split.png goonz/5032.png
+cp cool_guy.png goonz/5032.png
 cp tengu.png goonz/5033.png
-cp split.png goonz/5034.png
+cp cool_guy.png goonz/5034.png
 cp tengu.png goonz/5035.png
 cp split.png goonz/5036.png
 cp tengu.png goonz/5037.png
@@ -5053,7 +5053,7 @@ cp split.png goonz/5052.png
 cp tengu.png goonz/5053.png
 cp split.png goonz/5054.png
 cp tengu.png goonz/5055.png
-cp split.png goonz/5056.png
+cp cool_guy.png goonz/5056.png
 cp tengu.png goonz/5057.png
 cp split.png goonz/5058.png
 cp tengu.png goonz/5059.png
@@ -5170,7 +5170,7 @@ cp tengu.png goonz/5169.png
 cp split.png goonz/5170.png
 cp tengu.png goonz/5171.png
 cp split.png goonz/5172.png
-cp tengu.png goonz/5173.png
+cp cool_guy.png goonz/5173.png
 cp split.png goonz/5174.png
 cp tengu.png goonz/5175.png
 cp split.png goonz/5176.png
@@ -5235,10 +5235,10 @@ cp split.png goonz/5234.png
 cp tengu.png goonz/5235.png
 cp split.png goonz/5236.png
 cp tengu.png goonz/5237.png
-cp split.png goonz/5238.png
+cp cool_guy.png goonz/5238.png
 cp tengu.png goonz/5239.png
 cp split.png goonz/5240.png
-cp tengu.png goonz/5241.png
+cp cool_guy.png goonz/5241.png
 cp split.png goonz/5242.png
 cp tengu.png goonz/5243.png
 cp split.png goonz/5244.png
@@ -5264,7 +5264,7 @@ cp split.png goonz/5263.png
 cp flat_top.png goonz/5264.png
 cp flame.png goonz/5265.png
 cp tengu.png goonz/5266.png
-cp split.png goonz/5267.png
+cp cool_guy.png goonz/5267.png
 cp goggles.png goonz/5268.png
 cp tengu.png goonz/5269.png
 cp goggles.png goonz/5270.png
@@ -5351,7 +5351,7 @@ cp tengu.png goonz/5350.png
 cp split.png goonz/5351.png
 cp tengu.png goonz/5352.png
 cp beanie.png goonz/5353.png
-cp split.png goonz/5354.png
+cp cool_guy.png goonz/5354.png
 cp tengu.png goonz/5355.png
 cp flaming_marshmellow.png goonz/5356.png
 cp split.png goonz/5357.png
@@ -5407,7 +5407,7 @@ cp tengu.png goonz/5406.png
 cp beanie.png goonz/5407.png
 cp split.png goonz/5408.png
 cp tengu.png goonz/5409.png
-cp split.png goonz/5410.png
+cp cool_guy.png goonz/5410.png
 cp tengu.png goonz/5411.png
 cp split.png goonz/5412.png
 cp tengu.png goonz/5413.png
@@ -5472,7 +5472,7 @@ cp tengu.png goonz/5471.png
 cp split.png goonz/5472.png
 cp tengu.png goonz/5473.png
 cp sheriff_hat.png goonz/5474.png
-cp split.png goonz/5475.png
+cp cool_guy.png goonz/5475.png
 cp tengu.png goonz/5476.png
 cp split.png goonz/5477.png
 cp tengu.png goonz/5478.png
@@ -5557,7 +5557,7 @@ cp split.png goonz/5556.png
 cp tengu.png goonz/5557.png
 cp split.png goonz/5558.png
 cp tengu.png goonz/5559.png
-cp split.png goonz/5560.png
+cp cool_guy.png goonz/5560.png
 cp wolf_crown.png goonz/5561.png
 cp tengu.png goonz/5562.png
 cp split.png goonz/5563.png
@@ -5592,7 +5592,7 @@ cp split.png goonz/5591.png
 cp flame.png goonz/5592.png
 cp tengu.png goonz/5593.png
 cp split.png goonz/5594.png
-cp tengu.png goonz/5595.png
+cp cool_guy.png goonz/5595.png
 cp split.png goonz/5596.png
 cp tengu.png goonz/5597.png
 cp split.png goonz/5598.png
@@ -5669,7 +5669,7 @@ cp tengu.png goonz/5668.png
 cp split.png goonz/5669.png
 cp tengu.png goonz/5670.png
 cp split.png goonz/5671.png
-cp tengu.png goonz/5672.png
+cp cool_guy.png goonz/5672.png
 cp split.png goonz/5673.png
 cp tengu.png goonz/5674.png
 cp zombie.png goonz/5675.png
@@ -5729,7 +5729,7 @@ cp tengu.png goonz/5728.png
 cp flaming_marshmellow.png goonz/5729.png
 cp flame.png goonz/5730.png
 cp zombie.png goonz/5731.png
-cp split.png goonz/5732.png
+cp cool_guy.png goonz/5732.png
 cp tengu.png goonz/5733.png
 cp split.png goonz/5734.png
 cp tengu.png goonz/5735.png
@@ -5799,7 +5799,7 @@ cp tengu.png goonz/5798.png
 cp split.png goonz/5799.png
 cp tengu.png goonz/5800.png
 cp split.png goonz/5801.png
-cp tengu.png goonz/5802.png
+cp cool_guy.png goonz/5802.png
 cp split.png goonz/5803.png
 cp tengu.png goonz/5804.png
 cp split.png goonz/5805.png
@@ -5836,7 +5836,7 @@ cp tengu.png goonz/5835.png
 cp split.png goonz/5836.png
 cp tengu.png goonz/5837.png
 cp split.png goonz/5838.png
-cp tengu.png goonz/5839.png
+cp cool_guy.png goonz/5839.png
 cp split.png goonz/5840.png
 cp flame.png goonz/5841.png
 cp beanie.png goonz/5842.png
@@ -5850,7 +5850,7 @@ cp tengu.png goonz/5849.png
 cp flaming_marshmellow.png goonz/5850.png
 cp split.png goonz/5851.png
 cp tengu.png goonz/5852.png
-cp split.png goonz/5853.png
+cp cool_guy.png goonz/5853.png
 cp tengu.png goonz/5854.png
 cp zombie.png goonz/5855.png
 cp split.png goonz/5856.png
@@ -5944,7 +5944,7 @@ cp tengu.png goonz/5943.png
 cp split.png goonz/5944.png
 cp tengu.png goonz/5945.png
 cp split.png goonz/5946.png
-cp tengu.png goonz/5947.png
+cp cool_guy.png goonz/5947.png
 cp split.png goonz/5948.png
 cp tengu.png goonz/5949.png
 cp split.png goonz/5950.png
@@ -6042,9 +6042,9 @@ cp split.png goonz/6041.png
 cp tengu.png goonz/6042.png
 cp split.png goonz/6043.png
 cp tengu.png goonz/6044.png
-cp split.png goonz/6045.png
+cp cool_guy.png goonz/6045.png
 cp tengu.png goonz/6046.png
-cp split.png goonz/6047.png
+cp cool_guy.png goonz/6047.png
 cp beanie.png goonz/6048.png
 cp tengu.png goonz/6049.png
 cp split.png goonz/6050.png
@@ -6091,7 +6091,7 @@ cp tengu.png goonz/6090.png
 cp flat_top.png goonz/6091.png
 cp wolf_crown.png goonz/6092.png
 cp split.png goonz/6093.png
-cp tengu.png goonz/6094.png
+cp cool_guy.png goonz/6094.png
 cp split.png goonz/6095.png
 cp beanie.png goonz/6096.png
 cp tengu.png goonz/6097.png
@@ -6133,7 +6133,7 @@ cp tengu.png goonz/6132.png
 cp zombie.png goonz/6133.png
 cp split.png goonz/6134.png
 cp beanie.png goonz/6135.png
-cp tengu.png goonz/6136.png
+cp cool_guy.png goonz/6136.png
 cp split.png goonz/6137.png
 cp tengu.png goonz/6138.png
 cp split.png goonz/6139.png
@@ -6144,7 +6144,7 @@ cp split.png goonz/6143.png
 cp tengu.png goonz/6144.png
 cp split.png goonz/6145.png
 cp goggles.png goonz/6146.png
-cp tengu.png goonz/6147.png
+cp cool_guy.png goonz/6147.png
 cp split.png goonz/6148.png
 cp tengu.png goonz/6149.png
 cp split.png goonz/6150.png
@@ -6158,7 +6158,7 @@ cp split.png goonz/6157.png
 cp goggles.png goonz/6158.png
 cp tengu.png goonz/6159.png
 cp split.png goonz/6160.png
-cp tengu.png goonz/6161.png
+cp cool_guy.png goonz/6161.png
 cp flat_top.png goonz/6162.png
 cp split.png goonz/6163.png
 cp tengu.png goonz/6164.png
@@ -6170,7 +6170,7 @@ cp tengu.png goonz/6169.png
 cp flame.png goonz/6170.png
 cp split.png goonz/6171.png
 cp tengu.png goonz/6172.png
-cp split.png goonz/6173.png
+cp cool_guy.png goonz/6173.png
 cp sheriff_hat.png goonz/6174.png
 cp tengu.png goonz/6175.png
 cp split.png goonz/6176.png
@@ -6274,7 +6274,7 @@ cp tengu.png goonz/6273.png
 cp split.png goonz/6274.png
 cp flaming_marshmellow.png goonz/6275.png
 cp tengu.png goonz/6276.png
-cp split.png goonz/6277.png
+cp cool_guy.png goonz/6277.png
 cp tengu.png goonz/6278.png
 cp split.png goonz/6279.png
 cp tengu.png goonz/6280.png
@@ -6321,7 +6321,7 @@ cp split.png goonz/6320.png
 cp wolf_crown.png goonz/6321.png
 cp tengu.png goonz/6322.png
 cp wolf_crown.png goonz/6323.png
-cp split.png goonz/6324.png
+cp cool_guy.png goonz/6324.png
 cp flame.png goonz/6325.png
 cp flower.png goonz/6326.png
 cp tengu.png goonz/6327.png
@@ -6370,7 +6370,7 @@ cp tengu.png goonz/6369.png
 cp split.png goonz/6370.png
 cp tengu.png goonz/6371.png
 cp split.png goonz/6372.png
-cp tengu.png goonz/6373.png
+cp cool_guy.png goonz/6373.png
 cp split.png goonz/6374.png
 cp zombie.png goonz/6375.png
 cp tengu.png goonz/6376.png
@@ -6421,7 +6421,7 @@ cp split.png goonz/6420.png
 cp tengu.png goonz/6421.png
 cp split.png goonz/6422.png
 cp tengu.png goonz/6423.png
-cp split.png goonz/6424.png
+cp cool_guy.png goonz/6424.png
 cp sheriff_hat.png goonz/6425.png
 cp flame.png goonz/6426.png
 cp tengu.png goonz/6427.png
@@ -6475,7 +6475,7 @@ cp goggles.png goonz/6474.png
 cp tengu.png goonz/6475.png
 cp split.png goonz/6476.png
 cp tengu.png goonz/6477.png
-cp split.png goonz/6478.png
+cp cool_guy.png goonz/6478.png
 cp tengu.png goonz/6479.png
 cp split.png goonz/6480.png
 cp block.png goonz/6481.png
@@ -6521,7 +6521,7 @@ cp split.png goonz/6520.png
 cp tengu.png goonz/6521.png
 cp split.png goonz/6522.png
 cp flower.png goonz/6523.png
-cp tengu.png goonz/6524.png
+cp cool_guy.png goonz/6524.png
 cp split.png goonz/6525.png
 cp flame.png goonz/6526.png
 cp tengu.png goonz/6527.png
@@ -6537,7 +6537,7 @@ cp tengu.png goonz/6536.png
 cp split.png goonz/6537.png
 cp tengu.png goonz/6538.png
 cp split.png goonz/6539.png
-cp tengu.png goonz/6540.png
+cp cool_guy.png goonz/6540.png
 cp split.png goonz/6541.png
 cp tengu.png goonz/6542.png
 cp split.png goonz/6543.png
@@ -6552,7 +6552,7 @@ cp tengu.png goonz/6551.png
 cp flaming_marshmellow.png goonz/6552.png
 cp split.png goonz/6553.png
 cp wolf_crown.png goonz/6554.png
-cp tengu.png goonz/6555.png
+cp cool_guy.png goonz/6555.png
 cp flower.png goonz/6556.png
 cp split.png goonz/6557.png
 cp sheriff_hat.png goonz/6558.png
@@ -6587,7 +6587,7 @@ cp split.png goonz/6586.png
 cp flower.png goonz/6587.png
 cp tengu.png goonz/6588.png
 cp split.png goonz/6589.png
-cp tengu.png goonz/6590.png
+cp cool_guy.png goonz/6590.png
 cp ape.png goonz/6591.png
 cp wolf_crown.png goonz/6592.png
 cp split.png goonz/6593.png
@@ -6655,7 +6655,7 @@ cp tengu.png goonz/6654.png
 cp flower.png goonz/6655.png
 cp split.png goonz/6656.png
 cp tengu.png goonz/6657.png
-cp split.png goonz/6658.png
+cp cool_guy.png goonz/6658.png
 cp tengu.png goonz/6659.png
 cp split.png goonz/6660.png
 cp tengu.png goonz/6661.png
@@ -6692,7 +6692,7 @@ cp tengu.png goonz/6691.png
 cp split.png goonz/6692.png
 cp tengu.png goonz/6693.png
 cp split.png goonz/6694.png
-cp tengu.png goonz/6695.png
+cp cool_guy.png goonz/6695.png
 cp split.png goonz/6696.png
 cp tengu.png goonz/6697.png
 cp split.png goonz/6698.png
@@ -6742,7 +6742,7 @@ cp wolf_crown.png goonz/6741.png
 cp split.png goonz/6742.png
 cp tengu.png goonz/6743.png
 cp split.png goonz/6744.png
-cp tengu.png goonz/6745.png
+cp cool_guy.png goonz/6745.png
 cp split.png goonz/6746.png
 cp tengu.png goonz/6747.png
 cp split.png goonz/6748.png
@@ -6880,7 +6880,7 @@ cp tengu.png goonz/6879.png
 cp split.png goonz/6880.png
 cp goggles.png goonz/6881.png
 cp flame.png goonz/6882.png
-cp tengu.png goonz/6883.png
+cp cool_guy.png goonz/6883.png
 cp split.png goonz/6884.png
 cp tengu.png goonz/6885.png
 cp split.png goonz/6886.png
@@ -6901,7 +6901,7 @@ cp goggles.png goonz/6900.png
 cp split.png goonz/6901.png
 cp tengu.png goonz/6902.png
 cp split.png goonz/6903.png
-cp tengu.png goonz/6904.png
+cp cool_guy.png goonz/6904.png
 cp split.png goonz/6905.png
 cp tengu.png goonz/6906.png
 cp split.png goonz/6907.png
@@ -6938,7 +6938,7 @@ cp tengu.png goonz/6937.png
 cp split.png goonz/6938.png
 cp tengu.png goonz/6939.png
 cp split.png goonz/6940.png
-cp tengu.png goonz/6941.png
+cp cool_guy.png goonz/6941.png
 cp split.png goonz/6942.png
 cp tengu.png goonz/6943.png
 cp split.png goonz/6944.png
@@ -6958,7 +6958,7 @@ cp tengu.png goonz/6957.png
 cp split.png goonz/6958.png
 cp tengu.png goonz/6959.png
 cp split.png goonz/6960.png
-cp tengu.png goonz/6961.png
+cp cool_guy.png goonz/6961.png
 cp split.png goonz/6962.png
 cp tengu.png goonz/6963.png
 cp split.png goonz/6964.png
